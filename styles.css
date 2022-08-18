@@ -24,7 +24,6 @@ body {
     align-items: center;
     grid-template-columns: repeat(3, auto);
 }
-abc
 
 .board.x .cell:not(.x):not(.circle):hover::after,
 .board.x .cell:not(.x):not(.circle):hover::before {
